@@ -1,0 +1,13 @@
+/*
+*@Author: Ahmed_Sensei
+*@Description: A responsive experience component with a menu that highlights the active section of the page.
+ */
+
+.canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+}
